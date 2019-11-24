@@ -1,0 +1,13 @@
+### Windows Assessment and Deployment Kit - Windows 10
+- OptionId.ApplicationCompatibilityToolkit
+- OptionId.DeploymentTools
+- OptionId.ImagingAndConfigurationDesigner
+- OptionId.ICDConfigurationDesigner
+- OptionId.UserStateMigrationTool
+- OptionId.VolumeActivationManagementTool
+- OptionId.WindowsPerformanceToolkit
+- OptionId.WindowsAssessmentToolkit
+- OptionId.UEVTools
+- OptionId.AppmanSequencer
+- OptionId.AppmanAutoSequencer
+- OptionId.MediaeXperienceAnalyzer
